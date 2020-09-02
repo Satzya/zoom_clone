@@ -33,3 +33,8 @@ If the installation was successful, you should be able to run the following comm
 # To run the application
 
     node server.js
+    
+# View the application by accessing it through any browser via the port mentioned.
+    
+    http://localhost:2000
+    
